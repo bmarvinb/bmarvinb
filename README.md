@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My public talks
+1. [Подготовка к собеседованию по JavaScript в 2021](https://www.youtube.com/watch?v=H5wnkRJBfA8)
