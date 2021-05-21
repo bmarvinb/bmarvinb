@@ -1,5 +1,5 @@
 ### Hi there 
-My name is Dmitry Moiseev, I am a passionate front-end developer, nice to meet you 👋
+My name is Dmitry, I am a passionate developer, nice to meet you 👋
 
 <!--
 **bmarvinb/bmarvinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
