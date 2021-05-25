@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Dmitry, I am a software developer with a focus on frontend
 
-- 🌱 I’m currently learning: databases, networks and software testing
+- 🌱 I’m currently learning: databases, networks and AWS
 - 🤔 I’m looking for help with https://github.com/bmarvinb/react-trello-clone
 
 <!--
