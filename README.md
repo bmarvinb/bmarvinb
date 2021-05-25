@@ -1,5 +1,8 @@
 ### Hi there 
-My name is Dmitry, I am a passionate developer, nice to meet you 👋
+My name is Dmitry, I am a software developer with a focus on frontend,  nice to meet you 👋
+
+- 🌱 I’m currently learning: databases, networks and software testing
+- 🤔 I’m looking for help with https://github.com/bmarvinb/react-trello-clone
 
 <!--
 **bmarvinb/bmarvinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
