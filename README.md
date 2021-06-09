@@ -1,7 +1,6 @@
 ### Hi there 👋
 My name is Dmitry, I am a software developer with a focus on frontend
 
-- 🌱 I’m currently learning: AWS
 - 🤔 I’m looking for help with https://github.com/bmarvinb/react-trello-clone
 
 <!--
@@ -20,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
+- 🌱 I’m currently learning: AWS
 **
 My public talks (ru)
 1. [Подготовка к собеседованию по JavaScript в 2021](https://www.youtube.com/watch?v=H5wnkRJBfA8)
