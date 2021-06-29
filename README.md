@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Dmitry, I am a software developer with a focus on frontend
 
-- 🤔 I’m looking for help with https://github.com/bmarvinb/react-trello-clone
 
 <!--
+- 🤔 I’m looking for help with https://github.com/bmarvinb/react-trello-clone
 **bmarvinb/bmarvinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
